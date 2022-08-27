@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChaiAndSidra
 - 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning C++ and Algorithms
+- 🌱 I’m getting better at Java and SQL 
 - 💞️ I’m looking to collaborate on Fun projects
 
 <!---
